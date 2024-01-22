@@ -268,7 +268,6 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="cee631121c2ec9232f3a2f028ad5c89b" category="cell">500입니다</block>
   <block id="9dba50d3a2c2f26daddbf9d144c49772" category="cell">최소 크기</block>
   <block id="e2fca4ed20d01d1eda8a934cf81cb194" category="cell">20MB</block>
-  <block id="87338ad799bddd85c6298bb9270dc27f" category="cell">100TiB</block>
   <block id="f870c45bb6c4b8bad8f13c8dc3439f98" category="cell">* qtree *</block>
   <block id="8032f0290a7c4e00a6da3a195523a94e" category="cell">FlexVol 볼륨당 최대</block>
   <block id="38de34e4b49b8adfeb2c678818915204" category="cell">4,995</block>
@@ -395,7 +394,6 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="8e612b6b306f120390f4c3bd234f9ce8" category="cell">* 노드 기반 BYOL * ^3^</block>
   <block id="41a0b1e6c6d31716c7d7b603ce6a4936" category="section-title">논리적 스토리지 제한입니다</block>
   <block id="302f571fec3e23b2236f116e51e46721" category="cell">계층적 복제 깊이 ^12^</block>
-  <block id="309524b9e1ef1d7d7d905c7cb1d358e9" category="cell">100TB</block>
   <block id="1de430b06ad7ac64cf016ffed9f4194b" category="section-title">Cloud Volumes ONTAP HA 쌍은 즉각적인 스토리지 반환을 지원하지 않습니다</block>
   <block id="d69dddad3d38a1500a52e7e599cb94df" category="paragraph">노드가 재부팅된 후 파트너는 스토리지를 반환하기 전에 데이터를 동기화해야 합니다. 데이터를 재동기화하는 데 걸리는 시간은 노드가 다운된 동안 클라이언트가 쓴 데이터의 양과 반환 시간 동안 데이터 쓰기 속도에 따라 달라집니다.</block>
   <block id="7b9e5415e02ff7ad5eaae61345740517" category="inline-link">Google Cloud에서 실행 중인 Cloud Volumes ONTAP HA 쌍에서 스토리지의 작동 방식에 대해 알아보십시오</block>
@@ -722,4 +720,13 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="5313a9ac102424f63dd4d76f5280130e" category="sidebar">AWS의 제한</block>
   <block id="1fff298355326f8c77bd77059a41c1a2" category="sidebar">Azure의 제한</block>
   <block id="9a3a0c4b2afbb088e029484d4b34ba8b" category="sidebar">Google Cloud의 제한 사항</block>
+  <block id="64063abe39aac990beb215f4e4df9f92" category="cell">최대 크기 2</block>
+  <block id="d0bb632fcdb31cf3c729c1c59f826d4f" category="cell">128TB</block>
+  <block id="95f8ab07e6196c13df81b9123cb42b19" category="cell">최대 크기 3</block>
+  <block id="4dd4655034851cefb46869bef690cc22" category="cell">300TiB</block>
+  <block id="ae809759e1518d5c4c2019b9c03f15a1" category="list-text">ONTAP 9.12.1P2부터 128TB가 제한됩니다. ONTAP 9.11.1 이하 버전에서는 16TB로 제한됩니다.</block>
+  <block id="23631a3c0b249b8021bdc886f847e2ae" category="list-text">다음 툴과 최소 버전을 사용하면 최대 300TiB의 FlexVol 볼륨 생성이 지원됩니다.</block>
+  <block id="5680c249ee040de9c43f982996ed2a24" category="list-text">Cloud Volumes ONTAP 9.12.1 P2 및 9.13.0 P2부터 시작하는 System Manager 및 ONTAP CLI</block>
+  <block id="68c68c70121e1d9364223bb9fded83b0" category="list-text">BlueXP는 Cloud Volumes ONTAP 9.13.1부터 시작됩니다</block>
+  <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300TB</block>
 </blocks>
