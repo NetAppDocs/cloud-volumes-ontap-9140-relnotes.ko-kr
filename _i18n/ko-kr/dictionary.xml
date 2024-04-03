@@ -398,12 +398,6 @@ HA 쌍: ^1^의 노드에서 18개</block>
   <block id="d69dddad3d38a1500a52e7e599cb94df" category="paragraph">노드가 재부팅된 후 파트너는 스토리지를 반환하기 전에 데이터를 동기화해야 합니다. 데이터를 재동기화하는 데 걸리는 시간은 노드가 다운된 동안 클라이언트가 쓴 데이터의 양과 반환 시간 동안 데이터 쓰기 속도에 따라 달라집니다.</block>
   <block id="7b9e5415e02ff7ad5eaae61345740517" category="inline-link">Google Cloud에서 실행 중인 Cloud Volumes ONTAP HA 쌍에서 스토리지의 작동 방식에 대해 알아보십시오</block>
   <block id="81a074db33c6f62838933c92142f16d6" category="paragraph"><block ref="f969ecf664fae2f86e88c525c7dd7acf" category="inline-link-rx"></block>.</block>
-  <block id="b56253bf92505bda20b38657c778bccf" category="doc">여기에 페이지 제목을 입력합니다</block>
-  <block id="5d9328ee3f628e51f1a4f871ccff7313" category="paragraph">이 서식 파일을 문서, 주제 등 원하는 항목에 사용할 수 있습니다. index.adoc 파일에는 기사 페이지에 대한 올바른 키워드가 없으므로 이 키워드를 서식 파일로 사용하면 나중에 게시 문제가 발생할 수 있습니다.</block>
-  <block id="26739de98ff2a207a5c145caf27c2508" category="admonition">사이드바에 연결되지 않은 경우에도 파일이 게시되므로 초기 게시 전에 이 파일을 삭제하십시오. 몇 가지 문서를 만든 후 대신 스타터로 사용할 수 있습니다.</block>
-  <block id="38b255c5af258b1f086fb7c9aa4f252c" category="paragraph">문서가 콘텐츠 하위 폴더에 있는 경우 위에 표시된 표기법을 두 번 조정해야 합니다.</block>
-  <block id="df25e29acec650a07b41041946158355" category="list-text"><block ref="abc9d0bfc8d5688ddd4babf6a5402ee4" prefix="" category="inline-code"></block></block>
-  <block id="97df5ffadc97296dc727ffddf2d2e1fe" category="list-text"><block ref="ff695bd1637208b4929c7ae2085cd551" prefix="" category="inline-code"></block></block>
   <block id="e70747c71702cdc100bd5f592ed452be" category="summary">Cloud Volumes ONTAP에는 몇 가지 라이센스 옵션이 있습니다. 각 옵션을 사용하여 요구 사항에 맞는 구성을 선택할 수 있습니다.</block>
   <block id="be02aeef4770b69cefbe40935aba2797" category="doc">Cloud Volumes ONTAP에 대한 라이센싱입니다</block>
   <block id="17ed68bac4a851f70f23adb17408c559" category="summary">Cloud Volumes ONTAP 9.14.0에는 새로운 개선 사항이 포함되어 있습니다.</block>
@@ -729,4 +723,12 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="5680c249ee040de9c43f982996ed2a24" category="list-text">Cloud Volumes ONTAP 9.12.1 P2 및 9.13.0 P2부터 시작하는 System Manager 및 ONTAP CLI</block>
   <block id="68c68c70121e1d9364223bb9fded83b0" category="list-text">BlueXP는 Cloud Volumes ONTAP 9.13.1부터 시작됩니다</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300TB</block>
+  <block id="b8669dd4be6e14a3f0a4fcc02dda79a3" category="section-title">9.14.0 P2 (2024년 4월 1일)</block>
+  <block id="8a2e35e048f2fec22cf01ac1e91ac6e6" category="inline-link">URL에서 사용할 수 있는 이미지에서 업그레이드합니다</block>
+  <block id="17080ce14b30f5e8925e51145d5b1032" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.0 P2 패치를 사용할 수 있습니다. 이 패치는 수동 업그레이드에만 사용할 수 있습니다. 을 참조하십시오<block ref="616322dd48f91de2669b4ad12a0e820d" category="inline-link-rx"></block>.</block>
+  <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">P2 패치에서 수정된 버그 목록을 봅니다</block>
+  <block id="d01dcd7dd0571bc5938e104d16f1b241" category="paragraph"><block ref="35ccd464ef6dcc704dd5444888751abc" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
+  <block id="8c9e25527d8d001ea4984375636533f6" category="paragraph">이 패치가 이 릴리스의 마지막 패치입니다. 앞으로 Cloud Volumes ONTAP 9.14.0을 9.14.1로 업그레이드하는 것이 좋습니다.</block>
+  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="inline-link">Cloud Volumes ONTAP 9.14.1 릴리스 정보</block>
+  <block id="04288d19cfed9e5f660c0fbfee97b713" category="paragraph"><block ref="04288d19cfed9e5f660c0fbfee97b713" category="inline-link-rx"></block></block>
 </blocks>
