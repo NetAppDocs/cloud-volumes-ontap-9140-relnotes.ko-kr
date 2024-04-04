@@ -724,11 +724,7 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="68c68c70121e1d9364223bb9fded83b0" category="list-text">BlueXP는 Cloud Volumes ONTAP 9.13.1부터 시작됩니다</block>
   <block id="ea8e9cb87ad8076ed2bdd562222045c8" category="cell">300TB</block>
   <block id="b8669dd4be6e14a3f0a4fcc02dda79a3" category="section-title">9.14.0 P2 (2024년 4월 1일)</block>
-  <block id="8a2e35e048f2fec22cf01ac1e91ac6e6" category="inline-link">URL에서 사용할 수 있는 이미지에서 업그레이드합니다</block>
-  <block id="17080ce14b30f5e8925e51145d5b1032" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.0 P2 패치를 사용할 수 있습니다. 이 패치는 수동 업그레이드에만 사용할 수 있습니다. 을 참조하십시오<block ref="616322dd48f91de2669b4ad12a0e820d" category="inline-link-rx"></block>.</block>
   <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">P2 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="d01dcd7dd0571bc5938e104d16f1b241" category="paragraph"><block ref="35ccd464ef6dcc704dd5444888751abc" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
-  <block id="8c9e25527d8d001ea4984375636533f6" category="paragraph">이 패치가 이 릴리스의 마지막 패치입니다. 앞으로 Cloud Volumes ONTAP 9.14.0을 9.14.1로 업그레이드하는 것이 좋습니다.</block>
-  <block id="3f93d29b3f8dc957c8b9ced853857b76" category="inline-link">Cloud Volumes ONTAP 9.14.1 릴리스 정보</block>
-  <block id="04288d19cfed9e5f660c0fbfee97b713" category="paragraph"><block ref="04288d19cfed9e5f660c0fbfee97b713" category="inline-link-rx"></block></block>
+  <block id="6a9fe68abfa73dffd725487a9c628441" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.0 P2 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
 </blocks>
