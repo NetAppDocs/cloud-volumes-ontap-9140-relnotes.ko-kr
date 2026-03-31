@@ -1,5 +1,9 @@
 ---
 indexpage:
+  title: Cloud Volumes ONTAP 9.14.0 릴리스 정보
+  summary: 본 릴리즈 노트에서는 Cloud Volumes ONTAP 9.14.0의 새로운 기능, 제한 사항 및 알려진 문제에 대해 설명합니다.
+  keywords: rn, cvo, release notes, cloud volumes ontap, known, limitations, new,
+    features, issues, 9.14.0, 9140
   lead: 본 릴리즈 노트에서는 Cloud Volumes ONTAP 9.14.0의 새로운 기능, 제한 사항 및 알려진 문제에 대해 설명합니다.
   tiles:
   - title: 시작하십시오
