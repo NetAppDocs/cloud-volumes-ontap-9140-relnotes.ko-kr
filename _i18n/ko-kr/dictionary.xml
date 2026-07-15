@@ -720,7 +720,6 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="ce5d0c77f167b881391469fc27895727" category="inline-link-macro">P2 패치에서 수정된 버그 목록을 봅니다</block>
   <block id="d01dcd7dd0571bc5938e104d16f1b241" category="paragraph"><block ref="35ccd464ef6dcc704dd5444888751abc" category="inline-link-macro-rx"></block> (NetApp Support 사이트 로그인 필요).</block>
   <block id="6a9fe68abfa73dffd725487a9c628441" category="paragraph">이제 모든 클라우드 공급자에 대해 Cloud Volumes ONTAP에서 9.14.0 P2 패치를 사용할 수 있습니다. BlueXP는 기존 시스템을 이 패치 릴리즈로 업그레이드하라는 메시지를 표시합니다.</block>
-  <block id="b710bbf07a9ba1fa06f2e6f4e77a42db" category="paragraph">아래 표에 표시된 대역폭 은 각 인스턴스 유형에 대해 문서화된 AWS 제한과 일치합니다. 이러한 제한은 Cloud Volumes ONTAP이 제공할 수 있는 것과 완전히 일치하지는 않습니다. 예상 성능은 을<block ref="c23654021de34c23e6d408104aa3bf49" category="inline-link-rx"></block>참조하십시오.</block>
   <block id="57bbee64b9a570cce6aed56f532a26d4" category="doc">Cloud Volumes ONTAP 9.14.0 릴리스 정보</block>
   <block id="c3647f40e3574e0e6f49e20c19135bfa" category="section-title">Azure VM 확장 사용 시 제한 사항</block>
   <block id="9d167ed7d52d81da8d83590ec3b5a4af" category="paragraph">Cloud Volumes ONTAP는 배포 시 Azure VM(가상 머신) 확장 및 VM 애플리케이션을 지원하지 않습니다. VM 확장과 함께 Azure에서 Cloud Volumes ONTAP를 사용하면 작업이 지연되므로 NetApp에서는 이를 방지할 것을 권장합니다.</block>
@@ -728,4 +727,5 @@ PAYGO가 있는 단일 노드의 물리적 용량 352TiB
   <block id="f0de068c81c765820aca0fa8fe017396" category="list-text">Azure 지역 지원에 대해서는 을<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>참조하십시오.</block>
   <block id="ef9be83cb59b0572a3581a6724316e48" category="list-text">Google Cloud Platform 지역 지원은 을 참조하십시오<block ref="e55b14db85f4d4837890e415926626e0" category="inline-link-rx"></block>.</block>
   <block id="d798d4963d0ac509a1bda5483d9b9a52" category="paragraph"><block ref="5a94f18247116693735ff13d8eeaa964" category="inline-link-rx"></block>..</block>
+  <block id="fb83bdf454bf964031306f46d967b051" category="paragraph">아래 표에 표시된 대역폭은 각 인스턴스 유형에 대해 문서화된 AWS 제한과 일치합니다. 이러한 제한은 Cloud Volumes ONTAP가 제공할 수 있는 것과 완전히 일치하지 않습니다. 예상 성능은<block ref="f9e25e1e3616de01564541c204317f8f" category="inline-link-rx"></block>을 참조하십시오.</block>
 </blocks>
